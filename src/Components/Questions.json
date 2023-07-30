@@ -1,0 +1,22 @@
+[
+    {
+        "title":"What is l0g5+ log2",
+        "options":[7,10,1,0],
+        "answer":"C"
+    },
+    {
+        "title":"What is sin1° * sin2° * .......................* sin 359° ",
+        "options":[1,0,-1,2],
+        "answer":"B"
+    },
+    {
+        "title":"What is log1",
+        "options":[0,1,-1,10],
+        "answer":"A"
+    },
+    {
+        "title":"What is cos1° * cos2° *  ........................* cos 100°",
+        "options":[1,-1,2,0],
+        "answer":"D"
+    }
+]
